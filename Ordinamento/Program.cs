@@ -26,7 +26,7 @@ namespace Ordinamento
                     Stopwatch s = new Stopwatch();
                     // 4. Ordina
                     BubbleSort.Bubble_Sort(numeri);
-                    InsertSort
+                    InsertSort 
                 }
             }
         }
